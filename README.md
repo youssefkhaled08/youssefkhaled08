@@ -3,8 +3,11 @@
 <a href="https://www.linkedin.com/in/youssefkhaled08/">
 <img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Khaled-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<a href="mailto:youssefkfarouk@gmail.com">
 <img src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
-<a href="https://www.instagram.com/youssefkhaled08/">
+</a>
+  <a href="https://www.instagram.com/youssefkhaled08/">
   <img align="left" alt="Youssef's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto:youssefkfarouk@gmail.com">
