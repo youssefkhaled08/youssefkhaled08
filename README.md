@@ -39,3 +39,5 @@ Hi there, I'm **Youssef Khaled**, a sophomore CS student at Faculty of Computer 
 
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefkhaled08&count_private=true&show_icons=true&theme=highcontrast)
 )
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefkhaled08&layout=compact)](https://github.com/youssefkhaled08/github-readme-stats)
+
