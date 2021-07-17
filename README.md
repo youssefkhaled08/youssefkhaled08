@@ -16,11 +16,11 @@
 <br />
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Hi there, I'm **Youssef Khaled**, a sophomore CS student at Faculty of Computer Science and Information Technology at Ain-Shams University.
+Hi there, I'm **Youssef Khaled**, a sophomore CS student at Faculty of Computer Science and Information Technology at Ain-Shams University from Egypt.
 
 
 - 👨🏽‍💻 I'm currently working on learning Algorithms and Data Strucutres in depth.
-- 👨🏽‍💻 I'm interested in open source.
+- 👨🏽‍💻 I'm passionate about open source.
 - 📝 See my [CV](https://drive.google.com/file/d/1vZRnlUovmd-LMX2q2Q3LgVA38oM3DAAN/view?usp=sharing).
 
 
