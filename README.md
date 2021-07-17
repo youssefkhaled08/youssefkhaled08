@@ -5,16 +5,11 @@
 </a>
 
 <a href="mailto:youssefkfarouk@gmail.com">
-<img src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
+<img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
 </a>
- <a  href="https://www.instagram.com/youssefkhaled08/"><img src="https://img.shields.io/badge/youssefkhaled08_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+ <a href="https://www.instagram.com/youssefkhaled08/">
+ <img alt="Youssef's Instagram" src="https://img.shields.io/badge/youssefkhaled08_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 
-</a>
-  <a href="https://www.instagram.com/youssefkhaled08/">
-  <img align="left" alt="Youssef's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:youssefkfarouk@gmail.com">
-  <img align="left" alt="Youssef's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 
 <br />
