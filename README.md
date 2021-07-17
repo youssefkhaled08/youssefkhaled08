@@ -37,5 +37,5 @@ Hi there, I'm **Youssef Khaled**, a sophomore CS student at Faculty of Computer 
 <code><img height="20" alt="VScode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefkhaled08&count_private=true&show_icons=true&theme=merko)
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefkhaled08&count_private=true&show_icons=true&theme=nightowl)
 )
