@@ -18,8 +18,8 @@
 
 Hi there, I'm **Youssef Khaled**, a sophomore CS student at Faculty of Computer Science and Information Technology at Ain-Shams University from Egypt.
 
-
-- 👨🏽‍💻 I'm currently working on learning Algorithms and Data Strucutres in depth.
+- 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view">Structured Programming best project Award 2020 </a> in my first year as CS student for developing a clone of <a href="https://github.com/youssefkhaled08/Chicken-Invaders">Chicken Invaders game.</a>   
+- 👨🏽‍💻 I'm currently working on learning Algorithms and Data Strucutres in more depth.
 - 👨🏽‍💻 I'm passionate about open source.
 - 📝 See my [CV](https://drive.google.com/file/d/1vZRnlUovmd-LMX2q2Q3LgVA38oM3DAAN/view?usp=sharing).
 
