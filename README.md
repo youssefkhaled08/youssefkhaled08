@@ -1,13 +1,13 @@
 ## Hi, I'm Youssef 👋
 
-<a href="https://www.linkedin.com/in/youssefkhaled08/">
+<a href="https://www.linkedin.com/in/youssefkhaled08/" target="_blank">
 <img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Khaled-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:youssefkfarouk@gmail.com">
+<a href="mailto:youssefkfarouk@gmail.com" target="_blank">
 <img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
 </a>
- <a href="https://www.instagram.com/youssefkhaled08/">
+ <a href="https://www.instagram.com/youssefkhaled08/" target="_blank">
  <img alt="Youssef's Instagram" src="https://img.shields.io/badge/youssefkhaled08_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 
 </a>
@@ -18,10 +18,10 @@
 
 Hi there, I'm **Youssef Khaled**, a sophomore CS student at Faculty of Computer Science and Information Technology at Ain-Shams University from Egypt.
 
-- 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/youssefkhaled08/Chicken-Invaders">Chicken Invaders</a> game.   
+- 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/youssefkhaled08/Chicken-Invaders">Chicken Invaders</a> game.   
 - 👨🏽‍💻 I'm currently working on learning Algorithms and Data Strucutres in more depth.
 - 👨🏽‍💻 I'm passionate about open source.
-- 📝 See my [CV](https://drive.google.com/file/d/1vZRnlUovmd-LMX2q2Q3LgVA38oM3DAAN/view?usp=sharing).
+- 📝 See my <a href="https://drive.google.com/file/d/1vZRnlUovmd-LMX2q2Q3LgVA38oM3DAAN/view?usp=sharing" target="_blank"> CV</a>.
 
 
 **Languages and Tools:**  
