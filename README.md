@@ -1,14 +1,14 @@
 ## Hi, I'm Youssef 👋
 
-<a href="https://www.linkedin.com/in/youssefkhaled08/" target="_blank" align="center">
-<img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Khaled-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/youssefkhaled08/" target="_blank">
+<img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Khaled-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center">
 </a>
 
-<a href="mailto:youssefkfarouk@gmail.com" target="_blank" align="center">
-<img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
+<a href="mailto:youssefkfarouk@gmail.com" target="_blank">
+<img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com" align="center">
 </a>
- <a href="https://www.instagram.com/youssefkhaled08/" target="_blank" align="center">
- <img alt="Youssef's Instagram" src="https://img.shields.io/badge/youssefkhaled08_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+ <a href="https://www.instagram.com/youssefkhaled08/" target="_blank">
+ <img alt="Youssef's Instagram" src="https://img.shields.io/badge/youssefkhaled08_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" align="center">
 
 </a>
 
