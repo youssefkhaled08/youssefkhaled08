@@ -21,8 +21,6 @@ Hi there, I'm **Youssef Khaled**, a junior CS student at Faculty of Computer Sci
 - 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/youssefkhaled08/Chicken-Invaders">Chicken Invaders</a> game with my team.   
 - 👨🏽‍💻 I'm currently working on learning Algorithms and Data Structures in more depth.
 - 👨🏽‍💻 I'm passionate about open source.
-- 📝 See my <a href="https://drive.google.com/file/d/1woY1M5BgTXoocRcMWXpK4LRow7tE4zBq/view?usp=sharing"> CV</a>.
-
 
 **Languages and Tools:**  
 
