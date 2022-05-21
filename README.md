@@ -14,7 +14,7 @@
 
 <br />
 <br />
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 Hi there, I'm **Youssef Khaled**, a junior CS student at Faculty of Computer Science and Information Technology at Ain-Shams University from Egypt.
 
