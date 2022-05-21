@@ -14,10 +14,9 @@
 
 <br />
 <br />
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 Hi there, I'm **Youssef Khaled**, a junior CS student at Faculty of Computer Science and Information Technology at Ain-Shams University from Egypt.
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
-
 
 - 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/youssefkhaled08/Chicken-Invaders">Chicken Invaders</a> game with my team.   
 - 👨🏽‍💻 I'm currently working on learning Algorithms and Data Structures in more depth.
