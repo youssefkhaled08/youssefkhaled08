@@ -1,22 +1,25 @@
 ## Hi, I'm Youssef 👋
 
+<a href="https://youssefkhaled.hashnode.dev/">
+ <img alt="Youssef Khaled's Blog" src="https://img.shields.io/badge/Youssef%20Khaled's%20Blog-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white">
+</a>
+
 <a href="https://www.linkedin.com/in/youssefkhaled08/" target="_blank">
-<img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Khaled-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+ <img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Khaled-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:youssefkfarouk@gmail.com" target="_blank">
-<img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
+ <img alt="Youssef's Gmail"src="https://img.shields.io/badge/youssefkfarouk@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="youssefkfarouk@gmail.com">
 </a>
- <a href="https://www.instagram.com/youssefkhaled08/" target="_blank">
+<a href="https://www.instagram.com/youssefkhaled08/" target="_blank">
  <img alt="Youssef's Instagram" src="https://img.shields.io/badge/youssefkhaled08_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-
 </a>
 
 <br />
 <br />
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
-Hi there, I'm <b>Youssef Khaled</b>, a senior CS student at Ain-Shams University from Egypt.
+Hi there, I'm <b>Youssef Khaled</b>, a senior CS student at Ain-Shams University.
 
 - 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my first year as a CS student for developing a clone of <a href="https://github.com/youssefkhaled08/Chicken-Invaders">Chicken Invaders</a> game with my team.   
 - 👨🏽‍💻 I'm currently learning node.js and backend engineering.
