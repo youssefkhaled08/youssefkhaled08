@@ -56,8 +56,8 @@
 
 <div align='center'>
  <a href="https://github.com/youssefkhaled08">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=youssefkhaled08&count_private=true&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefkhaled08&layout=compact&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=youssefkhaled08&count_private=true&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefkhaled08&layout=compact&theme=radical"/>
  <p>
   <img height="50" alt="Javascript" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg">
   <img height="50" alt="ecmascript6" src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/logos/es6.svg">
