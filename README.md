@@ -47,13 +47,6 @@
 
 ---
 
-### Contributions
-
-**[AndrGab/medirepoWeb](https://github.com/AndrGab/medirepoWeb)**
-- feat: Arabic translation [#78](https://github.com/AndrGab/medirepoWeb/pull/78)
-
----
-
 <div align='center'>
  <a href="https://github.com/youssefkhaled08">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=youssefkhaled08&count_private=true&show_icons=true&theme=radical"/>
