@@ -2,7 +2,7 @@
 
 <div align='center'>
  
- ### Senior Computer Science Student, Interested in Backend, ML, NLP, and Open Source.
+ ### Fresh Graduate Software Engineer , Interested in Backend Development and Open Source.
  
  <a href="https://youssefkhaled.hashnode.dev/">
   <img alt="Youssef Khaled's Blog" src="https://img.shields.io/badge/Youssef%20Khaled's%20Blog-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white">
@@ -28,13 +28,12 @@
  <tr>
   <td valign="center" width="70%">
    
+   - 🏗️ Successfully completed [HacktoberFest 2022](https://hacktoberfest.com/) with 4 Merged Pull Requests.
    - 🏆 I won <a href="https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view" target="_blank">Structured Programming Best Project Award 2020 </a>offered by IBM & FCIS-ASU in my freshman year for developing a clone of <a href="https://github.com/youssefkhaled08/Chicken-Invaders">Chicken Invaders</a> game with <a href="https://github.com/YP6">my team</a>.
    - 🏗️ Currently working on making more Open-Source contributions in my free time.
-   - ✍️ Started a technical blog where I share my knowledge.
-   - 🌱 Learning about Bckend Engineering, ML, NLP, and Software Engineering. 
-   - 👨🏽‍💻 Currently learning Node.js.
-   - 👨🏽‍💻 Open to opportunities and collaborations.
-  
+   - ✍️ Started a [technical blog](https://youssefkhaled.hashnode.dev/) where I share my knowledge.
+   - 👨🏽‍💻 I'm Currently studying more about Backend Devlopment with Node.js & Express.
+   
 </td>
 <td align="top" width="30%">
  <div valign="center">
