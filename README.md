@@ -2,7 +2,7 @@
 
 <div align='center'>
  
- ### Software Integration Engineer @Ejada & @Zakat, Tax and Customs Authority. 
+ ### Software Integration Engineer @Ejada. 
  ### Interested in Backend Development and Open Source.
  
  <a href="https://youssefkhaled.hashnode.dev/">
